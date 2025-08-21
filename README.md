@@ -30,11 +30,11 @@ A full-stack task management application with user authentication and CRUD opera
 
 ## Quick Start
 
-### Option 1: Docker Compose (Recommended)
+### Option 1: Docker Compose
 
 ```bash
 # Clone and navigate to project
-cd FullStack_project
+cd Mini-Task-Manager
 
 # Start all services
 docker-compose up --build
